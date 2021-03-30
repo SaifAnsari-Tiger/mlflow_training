@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/saif/Downloads/Tiger_best_DS_practices/mlruns/0/1d588abb57b44455b42a452be486b63c/artifacts
+end_time: 1617092640204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 1d588abb57b44455b42a452be486b63c
+run_uuid: 1d588abb57b44455b42a452be486b63c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1617092640145
+status: 3
+tags: []
+user_id: saif
